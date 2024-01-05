@@ -9,8 +9,7 @@
 - 👯 I’m looking to collaborate on fullstack projects
 - 🤔 I’m looking for help with productising ML models
 - 💬 Ask me about Africa
-- 📫 How to reach me: @cholkany
-t![MultiversxXLogoGIF](https://github.com/cholkany/cholkany/assets/73144638/2ec8448c-9b00-4dff-aaee-11f66c9fb447)
+- 📫 How to reach me: [@cholkany](https://x.com/cholkany)
   
 
 
